@@ -1,4 +1,4 @@
-# jnu-algorithm
+# jnu-algorithm (Python)
 ## 第五章
 **TSP 问题：**
 
